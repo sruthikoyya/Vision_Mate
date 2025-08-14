@@ -1,0 +1,9 @@
+streamlit
+opencv-python 
+transformers 
+pillow 
+pyttsx3 
+pytesseract 
+scikit-learn
+numpy
+pytesseract
