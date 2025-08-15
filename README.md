@@ -1,5 +1,5 @@
 # Vision Mate
-Your AI-powered accessibility assistant
+AI-powered accessibility assistant
 
 ## Purpose
 Vision Mate was built with one main goal — to help visually impaired individuals understand their surroundings better.  
